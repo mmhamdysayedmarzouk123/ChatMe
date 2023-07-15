@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCUscMtgOaEo6Y3kylZPhgGA2A-qnfeETk',
-    appId: '1:1007786744590:web:2de867c4f0feb30f62155f',
-    messagingSenderId: '1007786744590',
-    projectId: 'chatme-c321d',
-    authDomain: 'chatme-c321d.firebaseapp.com',
-    storageBucket: 'chatme-c321d.appspot.com',
+    apiKey: 'AIzaSyB0T3dFHMGaifwz-7csgtq-jDNZl5Y_KI8',
+    appId: '1:346385073616:web:c39f599fee80451abae5d5',
+    messagingSenderId: '346385073616',
+    projectId: 'chatme-313fe',
+    authDomain: 'chatme-313fe.firebaseapp.com',
+    storageBucket: 'chatme-313fe.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDKWXjKYbGBsp5fHKyQ92_UrCKgFUzwFiY',
-    appId: '1:1007786744590:android:d0f741f9b3a07ffb62155f',
-    messagingSenderId: '1007786744590',
-    projectId: 'chatme-c321d',
-    storageBucket: 'chatme-c321d.appspot.com',
+    apiKey: 'AIzaSyDpvk7-1Cyci5eBu3sAWyf6PR7VWhYXAw4',
+    appId: '1:346385073616:android:9a3d8089c5bb05f0bae5d5',
+    messagingSenderId: '346385073616',
+    projectId: 'chatme-313fe',
+    storageBucket: 'chatme-313fe.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDPCmx3S2ats6LXbLcPur1zj_M0UsTrw_M',
-    appId: '1:1007786744590:ios:2cf6bf4a6f5484b062155f',
-    messagingSenderId: '1007786744590',
-    projectId: 'chatme-c321d',
-    storageBucket: 'chatme-c321d.appspot.com',
-    iosClientId: '1007786744590-ivug46teso21vrr4sb7gmu2gs1ap3bnn.apps.googleusercontent.com',
+    apiKey: 'AIzaSyD5uMivocZw_Kou_-soW7frDPYWiP-yxL0',
+    appId: '1:346385073616:ios:f66ca1870da48809bae5d5',
+    messagingSenderId: '346385073616',
+    projectId: 'chatme-313fe',
+    storageBucket: 'chatme-313fe.appspot.com',
+    iosClientId: '346385073616-uk0j6cgm4f61oj7ihgi9uh3tq52og9kf.apps.googleusercontent.com',
     iosBundleId: 'com.example.chatmeApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDPCmx3S2ats6LXbLcPur1zj_M0UsTrw_M',
-    appId: '1:1007786744590:ios:e35f5a7e32e6f4f362155f',
-    messagingSenderId: '1007786744590',
-    projectId: 'chatme-c321d',
-    storageBucket: 'chatme-c321d.appspot.com',
-    iosClientId: '1007786744590-43fd305fnfe8qciqvlpd3i8hskb4kkn8.apps.googleusercontent.com',
+    apiKey: 'AIzaSyD5uMivocZw_Kou_-soW7frDPYWiP-yxL0',
+    appId: '1:346385073616:ios:05d822fe42fba3cebae5d5',
+    messagingSenderId: '346385073616',
+    projectId: 'chatme-313fe',
+    storageBucket: 'chatme-313fe.appspot.com',
+    iosClientId: '346385073616-s5ulesbh5jkkgvad613hs3cf68ridjon.apps.googleusercontent.com',
     iosBundleId: 'com.example.chatmeApp.RunnerTests',
   );
 }
